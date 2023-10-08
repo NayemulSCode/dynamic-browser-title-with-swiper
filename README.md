@@ -1,0 +1,1 @@
+# dynamic-browser-title-with-swiper
